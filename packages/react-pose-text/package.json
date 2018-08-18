@@ -43,7 +43,7 @@
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-typescript2": "^0.14.0",
     "rollup-plugin-uglify": "^3.0.0",
-    "typescript": "^2.8.1"
+    "typescript": "^2.5.2"
   },
   "dependencies": {
     "hey-listen": "^1.0.5",
